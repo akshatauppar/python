@@ -1,5 +1,7 @@
 a=10
 b=20
-sum=a+b
+c=30
+sum=a+b+c
 print=int(input("Enter the first number"))
 print=int(input("Enter the second number"))
+print=int(input("Enter the third number"))
